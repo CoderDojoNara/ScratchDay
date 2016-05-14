@@ -4,6 +4,10 @@
 - [Scratch](http://scratch.mit.edu/)
 - [Scratch Day](http://day.scratch.mit.edu/)
 
+# Scratchで使える素材
+- [素材スタジオ](https://scratch.mit.edu/studios/976514/)
+- [ぴぽや素材_RPGキャラチップ](https://scratch.mit.edu/projects/47116790)
+
 # スタジオ
 - [Scratch Day 2016 in Nara Studio](https://scratch.mit.edu/studios/2043029/)
 - [CoderDojo Nara Studio](https://scratch.mit.edu/studios/522153/)
