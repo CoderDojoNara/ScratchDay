@@ -4,6 +4,10 @@
 - [Scratch](http://scratch.mit.edu/)
 - [Scratch Day](http://day.scratch.mit.edu/)
 
+# 武藤さんの発表資料
+- [Scratchと物理世界をつなごう!!](http://qml.610t.org/squeak/ScratchDay2016.html)
+- [発表資料](http://qml.610t.org/squeak/ScratchDay2016.presen)
+
 # Scratchで使える素材
 - [素材スタジオ](https://scratch.mit.edu/studios/976514/)
 - [ぴぽや素材_RPGキャラチップ](https://scratch.mit.edu/projects/47116790)
